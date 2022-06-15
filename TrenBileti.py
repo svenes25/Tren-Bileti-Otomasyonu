@@ -1,6 +1,3 @@
-#21100011045
-#Esra TUNA
-#tren bilet satış otomasyonu
 IstanbulTren=[]
 AnkaraTren=[]
 KonyaTren=[]
